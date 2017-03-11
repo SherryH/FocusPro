@@ -42,6 +42,7 @@ export default class Motivational extends React.Component {
                 <label htmlFor="textarea1">Type here to brainstorm goals. This will not be saved.</label>
               </div>
             </div>
+            (Questions from http://niklasgoeke.com/how-to-set-goals)
           </form>
         </div>
       </Modal>
